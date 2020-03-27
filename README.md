@@ -1,3 +1,22 @@
+# freeCodeCamp + 100DaysOfCode Logs
+Template for logs are inspired by Robert Groves. Follow him ([@rgroves](https://github.com/rgroves)) on GitHub! 
+
+### Day 1: Thursday, March 26, 2020
+
+Tweeted [here](https://twitter.com/kathleen_tech/status/1241884814682337282).
+
+### Day 2: Thursday, March 26, 2020
+
+Tweeted [here](https://twitter.com/kathleen_tech/status/1242275266942115840).
+
+### Day 3: Thursday, March 26, 2020
+
+Tweeted [here](https://twitter.com/kathleen_tech/status/1242652924351741953).
+
+### Day 4: Thursday, March 26, 2020
+
+Tweeted [here](https://twitter.com/kathleen_tech/status/1243006747100487686).
+
 ### Day 5: Thursday, March 26, 2020
 
 #### **Today's Progress**:
