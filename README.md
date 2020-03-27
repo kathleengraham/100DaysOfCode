@@ -31,7 +31,7 @@ I had submitted another one for freeCodeCamp in the past, but I felt like it was
 
 #### **Link to work:**
 
-[freeCodeCamp-tribute-page-Rubiks-cube](https://kathleengraham.github.io/fccTributePage/)
+[fCC: Tribute Page](https://kathleengraham.github.io/fccTributePage/)
 
 #### **Next Steps:**
 
